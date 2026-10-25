@@ -40,7 +40,7 @@ The shop is a demonstration: payments and authentication are simulated, and no r
 
 ## Getting started
 
-You need **Node.js 20.19+** (Node 22+ recommended) and npm.
+You need **Node.js 22.12+** (Node 24 recommended) and npm.
 
 ```bash
 git clone <repository-url>

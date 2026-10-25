@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Ecaspian - a curated e-commerce storefront built with React, Redux Toolkit and Tailwind CSS.",
   "engines": {
-    "node": ">=20.19.0"
+    "node": "^22.12.0 || >=24.0.0"
   },
   "scripts": {
     "dev": "vite",
