@@ -207,6 +207,16 @@ The suite covers:
 The repository includes `vercel.json` with a single-page-application rewrite and baseline security
 headers. Vercel auto-detects Vite.
 
+### Publish to GitHub
+
+Create an empty repository on GitHub (without a README or `.gitignore`), then connect this local
+history and push:
+
+```bash
+git remote add origin https://github.com/<your-username>/ecaspian.git
+git push -u origin main
+```
+
 ### Deploy with the Vercel dashboard
 
 1. Push the repository to GitHub.
